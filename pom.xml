@@ -61,7 +61,7 @@
     <maven.compiler.target>11</maven.compiler.target>
     <releaseProfiles>fluo-recipes-release</releaseProfiles>
     <spark.version>3.3.3</spark.version>
-    <zookeeper.version>3.8.4</zookeeper.version>
+    <zookeeper.version>3.8.6</zookeeper.version>
   </properties>
   <dependencyManagement>
     <dependencies>
